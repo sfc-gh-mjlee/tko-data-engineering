@@ -81,3 +81,4 @@ def get_snowsql_config(
         raise Exception(
             "Error getting snowsql config details"
         )
+        
